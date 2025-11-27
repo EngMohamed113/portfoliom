@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://engmoha.vercel.app/sitemap.xml
